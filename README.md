@@ -1,9 +1,6 @@
 # login_page
 
 
----
-
-# **Satzy Login Flutter App**
 
 A modern, responsive **login page built in Flutter** with red-themed UI, validation, and reusable components.
 
