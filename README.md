@@ -1,9 +1,6 @@
 # login_page
 
 
-
-
-
 ---
 
 # **Satzy Login Flutter App**
@@ -25,11 +22,7 @@ A modern, responsive **login page built in Flutter** with red-themed UI, validat
 
 ---
 
-## **Screenshots**
 
-*(Add screenshots of your app running here)*
-
----
 
 ## **Installation & Setup**
 
@@ -121,6 +114,7 @@ Unauthorized use, reproduction, or distribution of this project, in part or whol
 
 ---
 
+## **Screenshots**
 
 
 <img width="1892" height="825" alt="Screenshot 2025-08-26 130923" src="https://github.com/user-attachments/assets/05db6e66-db38-4423-87f0-ef712d2052f9" />
